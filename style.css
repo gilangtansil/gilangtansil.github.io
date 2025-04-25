@@ -1,0 +1,16 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #b8ddf0;
+}
+
+
+footer {
+    background-color: #ffffff;
+    padding-bottom: 3px;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;    
+}
+section {
+    padding-top: 5rem;
+}
